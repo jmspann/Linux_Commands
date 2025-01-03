@@ -3,7 +3,7 @@ Lab utilizing basic Linux commands for navigation, file and authorization manage
 <h1>Basic Linux Commands</h1>
 
 <h2>Description</h2>
-This lab utilizes basic Linux commands for a number of tasks a cybersecurity analyst may perform including: installing Suricata and tcpdump, generating outputs, navigating through directories, filtering content using grep, file management, updating authorization on files and directories, and managing users access.
+This lab utilizes basic Linux commands for a number of tasks a cybersecurity analyst may perform including: installing Suricata and tcpdump, generating outputs, navigating through directories, and filtering content using grep.
 <br />
 
 
