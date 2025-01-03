@@ -1,4 +1,4 @@
-# Linux_Commands
+# Basic LinuxCommands
 Lab utilizing basic Linux commands for navigation, file and authorization management, and filtering.
 <h1>Basic Linux Commands</h1>
 
