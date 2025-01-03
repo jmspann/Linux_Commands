@@ -1,5 +1,3 @@
-# Basic Linux Commands
-Lab utilizing basic Linux commands for navigation, file and authorization management, and filtering.
 <h1>Basic Linux Commands</h1>
 
 <h2>Description</h2>
