@@ -1,4 +1,4 @@
-# Basic LinuxCommands
+# Basic Linux Commands
 Lab utilizing basic Linux commands for navigation, file and authorization management, and filtering.
 <h1>Basic Linux Commands</h1>
 
@@ -22,7 +22,7 @@ This lab utilizes basic Linux commands for a number of tasks a cybersecurity ana
 
 <p align="center">
 Check that the APT is installed using the <em><strong>apt</strong></em> command: <br/>
-<img src="https://i.imgur.com/hweSG31.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/hweSG31.png" height="100%" width="100%" alt="Installation Steps"/>
 <br />
 <br />
 Install tcpdump using the <em><strong>sudo</strong></em> command:  <br/>
